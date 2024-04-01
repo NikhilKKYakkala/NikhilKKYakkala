@@ -8,7 +8,6 @@ Masters in Computer Science, Depaul University(Sept. 2022 - present)
 Bachelors in Computer Science, Geethanjali College of Engineering and Technology(Aug. 2017 - Jun. 2021)
 
 ### Experience
-
 #### Software Developer, DXC Technology Aug. 2021 - Jun. 2022
 
 * Collaborated with cross-functional teams (front-end engineers, designers, QA, product managers) to improve user experience, resulting in
@@ -23,21 +22,18 @@ iteration cycles, optimizing development efficiency.
 ### Projects
 
 #### Decentralized Blockchain Ledger System (Jan. 2023 - Mar. 2023)
-
 * Replicated a blockchain system using socket programming techniques, implementing secure socket practices for robust data transmission.
 * Developed a ledger system for secure data passage, internal computations, and reliable storage. Implemented serialization and
 deserialization techniques, effective error handling with sockets, and strategies like socket timeouts to ensure seamless communication.
 * Broadcasted the data across all nodes in order to synchronize and ensure consistency and uniformity.
 
 #### Survey on Cyber Bullying Apr. 2021 - Jun. 2021
-
 * Engineered a method for optimizing model selection, ensuring improved performance with various datasets.
 * Utilized Python, Jupyter Notebook for sophisticated analysis, collecting key insights and facilitating a full review of the subject matter.
 * Analyzed and assessed merits and drawbacks of models, including Random Forest, AdaBoost, Decision Tree, and Logistic Regression.
 * Achieved a remarkable 25% reduction in data preprocessing time, freeing up valuable user resources and enhancing overall efficiency.
 
 #### Tuition Wala May. 2020 - Jun. 2020
-
 * Created a web platform using MEAN Stack, streamlining the tuition search process for students, tutors, and tutoring centers.
 * Pioneered user authentication, astutely managed databases, and implemented intuitive search functionality, culminating in a substantial
 reduction in time needed to identify suitable tuition options.
@@ -45,7 +41,6 @@ reduction in time needed to identify suitable tuition options.
 * Introduced recommendation algorithms, elevating user satisfaction and achieving a 15% increase in successful tuition matches.
 
 #### Security system for face recognition and Voice assistance Nov. 2019 - Dec. 2019
-
 * Spearheaded the creation of a security system, employing voice assistance and facial recognition to fortify sercurity protocols.
 * Deployed OpenCV for facial recognition, utilized Raspberry Pi for virtualization, integrated Amazon Alexa for voice assistance, and
 seamlessly linked it all with Firebase as a database.
