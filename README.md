@@ -49,21 +49,21 @@ improvement in security. Crafted real-time image processing algorithms, effectiv
 
 ### Technical Skills
 
-* Programming Languages: Python, R, C, Java, SQL
-* Databases: MySQL, OracleSQL
-* Certifications: Computer Vision, MEAN Stack, Python, Machine Learning
-* Version Control: Git
-* Web Development: MEAN Stack (MongoDB, Express.js, Angular, Node.js), React.js, HTML, JSS
-* Frameworks / Tools: AWS, Azure, Snowflake, DBT, Control-M, Hadoop, Jupyter Notebook, RStudio, JIRA, Confluence
+* **Programming Languages**: Python, R, C, Java, SQL
+* **Databases**: MySQL, OracleSQL
+* **Certifications**: Computer Vision, MEAN Stack, Python, Machine Learning
+* **Version Control**: Git
+* **Web Development**: MEAN Stack (MongoDB, Express.js, Angular, Node.js), React.js, HTML, JSS
+* **Frameworks / Tools**: AWS, Azure, Snowflake, DBT, Control-M, Hadoop, Jupyter Notebook, RStudio, JIRA, Confluence
 
 ### Leadership and Achievements
 
-* Led the Creative Design Club, creating impactful banners, flyers, and video content for various college-organized events.
-* Successfully coordinated Alphametica-2020, overseeing committees, managing budgets, and coordinating logistics, resulting in a
+* Led the **Creative Design Club**, creating impactful banners, flyers, and video content for various college-organized events.
+* Successfully coordinated **Alphametica-2020**, overseeing committees, managing budgets, and coordinating logistics, resulting in a
 seamlessly executed and highly successful event.
-* Awarded first place in the J-Hub Hackathon for remarkable problem-solving and innovation in the project ”Security system for face
+* Awarded first place in the **J-Hub Hackathon** for remarkable problem-solving and innovation in the project ”Security system for face
 recognition and Voice Assistance.”
-* Secured a Consolation prize in the ML Hackathon, demonstrating proficiency in ML concepts and applications.
+* Secured a Consolation prize in the **ML Hackathon**, demonstrating proficiency in ML concepts and applications.
 
 ## Make Connections
 
