@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/NikhilYakkala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://nikhilkkyakkala.github.io/">
-    <img src="https://img.shields.io/badge/NikhilYakkala-39E09B?style=for-the-badge&logo=NK&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-8544e3?style=for-the-badge&logo=NK&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linktr.ee/nikhil_yakkala">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
