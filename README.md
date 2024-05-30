@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=81ccd3&center=true&vCenter=true&width=435&lines=Hi There👋..+I'm+Nikhil;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=#56bdc4&center=true&vCenter=true&width=435&lines=Hi There👋..+I'm+Nikhil;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611lktsuzagd8svh6znc30lswv27s8cjdgcf6mah35i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Terminal GH GIF" /></p>
 </div>
 
